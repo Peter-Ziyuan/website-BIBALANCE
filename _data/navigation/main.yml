@@ -1,17 +1,21 @@
-- name: Events
-  link: /events
+- title: Home
+  url: /
 
-- name: Projects
-  link: /projects
+- title: About
+  url: /about
 
-- name: Press
-  link: /#press
+- title: For Families
+  url: /for-families
 
-- name: Join Us
-  link: /join
+- title: Our Science
+  url: /science
 
-- name: Toolkit
-  link: /toolkit
+- title: Team
+  url: /team
 
-- name: Wins
-  link: /wins
+- title: Videos
+  url: /videos
+
+- title: Contact
+  url: /contact
+
